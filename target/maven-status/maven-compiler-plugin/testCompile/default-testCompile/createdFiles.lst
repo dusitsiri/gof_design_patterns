@@ -1,0 +1,4 @@
+guru\springframework\gof\AppTest.class
+guru\springframework\gof\builder\director\ConstructionEngineerTest.class
+guru\springframework\gof\abstractFactory\GourmetPizzaFactoryTest.class
+guru\springframework\gof\abstractFactory\SicilianPizzaFactoryTest.class
