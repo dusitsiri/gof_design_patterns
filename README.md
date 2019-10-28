@@ -32,7 +32,7 @@
 	2.
 
 
-## 2. Structural Design Patterns
+
 
 
 ### Licenses
